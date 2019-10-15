@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a76bf964-1193-4c4b-8644-3b97434143ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_blog/templates/my_blog/post/share.html" afterDir="false" />
+    <list default="true" id="a76bf964-1193-4c4b-8644-3b97434143ed" name="Default Changelist" comment="add forms to send mails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/templates/my_blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/templates/my_blog/post/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +92,16 @@
       <workItem from="1571142159133" duration="327000" />
       <workItem from="1571142754238" duration="4298000" />
       <workItem from="1571147656005" duration="1285000" />
-      <workItem from="1571161636993" duration="1359000" />
+      <workItem from="1571161636993" duration="1985000" />
     </task>
+    <task id="LOCAL-00001" summary="add forms to send mails">
+      <created>1571163193695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571163193695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add forms to send mails" />
+    <option name="LAST_COMMIT_MESSAGE" value="add forms to send mails" />
   </component>
 </project>
