@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a76bf964-1193-4c4b-8644-3b97434143ed" name="Default Changelist" comment="add forms to send mails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/templates/my_blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/templates/my_blog/post/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +31,7 @@
   <component name="ProjectId" id="1SExoqpUVXRp5iSUdxSRZQxp2ja" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -93,6 +100,8 @@
       <workItem from="1571142754238" duration="4298000" />
       <workItem from="1571147656005" duration="1285000" />
       <workItem from="1571161636993" duration="1985000" />
+      <workItem from="1571163647267" duration="332000" />
+      <workItem from="1571237991130" duration="3455000" />
     </task>
     <task id="LOCAL-00001" summary="add forms to send mails">
       <created>1571163193695</created>
