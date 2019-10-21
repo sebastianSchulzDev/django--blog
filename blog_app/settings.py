@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'my_blog.apps.MyBlogConfig',
     'taggit',
+    'django.contrib.sites',
+    'django.contrib.sitemaps',
 
 ]
 
@@ -72,6 +74,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'blog_app.wsgi.application'
+
+SITE_ID = 1
 
 
 # Database
