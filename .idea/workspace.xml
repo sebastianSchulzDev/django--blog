@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a76bf964-1193-4c4b-8644-3b97434143ed" name="Default Changelist" comment="add comments functionality">
-      <change afterPath="$PROJECT_DIR$/my_blog/sitemaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_blog/feeds.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/templates/my_blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/templates/my_blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\blog_app\my_blog" />
+      <recent name="D:\PycharmProjects\blog_app\blog_app" />
       <recent name="D:\PycharmProjects\blog_app\my_blog\static" />
       <recent name="D:\PycharmProjects\blog_app\my_blog\static\my_blog" />
       <recent name="D:\PycharmProjects\blog_app" />
@@ -101,7 +103,8 @@
       <workItem from="1571500671906" duration="1491000" />
       <workItem from="1571502764501" duration="123000" />
       <workItem from="1571568955094" duration="1182000" />
-      <workItem from="1571674362598" duration="2112000" />
+      <workItem from="1571674362598" duration="2441000" />
+      <workItem from="1571749576847" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="add forms to send mails">
       <created>1571163193695</created>
