@@ -1,0 +1,27 @@
+{% extends "my_blog/base.html" %}
+
+{% block title %}Szukaj{% endblock %}
+
+{% block content %}
+  {% if query %}
+    <h1>Posty zawierające "{{ query }}"</h1>
+    <h3>
+      {% with results.count as total_results %}
+          Znaleziono {{ total_results }} wynik{{ total_results|pluralize:"i" }}
+      {% endwith %}
+    </h3>
+    {% for post in results %}
+        <h4><a href="{{ post.get_absolute_url }}">{{ post.title }}</a></h4>
+        {{ post.body|truncatewords:5 }}
+    {% empty %}
+      <p>Nie znaleziono.</p>
+    {% endfor %}
+    <p><a href="{% url "my_blog:post_search" %}">Szukaj ponownie</a></p>
+  {% else %}
+    <h1>Przeszukaj posty</h1>
+    <form action="." method="get">
+      {{ form.as_p }}
+      <input type="submit" value="Szukaj">
+    </form>
+  {% endif %}
+{% endblock %}
