@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a76bf964-1193-4c4b-8644-3b97434143ed" name="Default Changelist" comment="add comments functionality">
-      <change afterPath="$PROJECT_DIR$/my_blog/templates/my_blog/post/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2-2.8.4.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/_ipaddress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/_lru_cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/_psycopg.cp37-win32.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/errorcodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/extras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/pool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/psycopg2/tz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,7 +102,8 @@
       <workItem from="1571568955094" duration="1182000" />
       <workItem from="1571674362598" duration="2441000" />
       <workItem from="1571749576847" duration="912000" />
-      <workItem from="1572012016409" duration="6311000" />
+      <workItem from="1572012016409" duration="6531000" />
+      <workItem from="1572276116177" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="add forms to send mails">
       <created>1571163193695</created>
